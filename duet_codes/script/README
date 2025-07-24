@@ -1,0 +1,2 @@
+Important: This code requires a modified version of FieldTrip able to
+recognize the Duke (equidistant) cap as a valid EEG system.
