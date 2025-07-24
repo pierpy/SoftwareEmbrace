@@ -1,0 +1,20 @@
+#
+# AI-Mind Requirements file.
+#
+# WARNING: The aimind.xxx packages are hosted in a private AI-Mind PyPI server which is password protected.
+# PyCharm IDE is not interactive while installing requirements, so the automatic installation fails.
+#
+# Instead, open the terminal and type :
+#   pip install -r requirements.txt
+# or directly use the pip command with the --index option.
+# Example:
+#   pip install aimind.sdk --index https://pypi.brainsymph.com/
+# Then type the username and password when required.
+# For AI-Mind PyPi server credentials, please ask the AI-Mind DevOps Administrator.
+#
+
+--extra-index-url https://pypi.brainsymph.com/
+numpy>=1.23
+scipy
+pandas
+mne>=1.9.0
