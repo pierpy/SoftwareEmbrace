@@ -1,0 +1,15 @@
+duet  resting-EO  1  Duet_Musicians_2022-05-27_18-40-06.cnt   NaN   182
+duet  resting-EC  1  Duet_Musicians_2022-05-27_18-40-06.cnt   183   367
+duet  playing     1  Duet_Musicians_2022-05-27_18-40-06.cnt   368   521
+duet  resting-EO  1  Duet_Musicians_2022-05-27_18-40-06.cnt   522   653
+duet  listening   1  Duet_Musicians_2022-05-27_18-40-06.cnt   654   878
+duet  playing     1  Duet_Musicians_2022-05-27_18-40-06.cnt   879  1042
+duet  resting-EO  1  Duet_Musicians_2022-05-27_18-40-06.cnt  1043   NaN
+
+duet  resting-EO  2  Duet_Musicians_2022-05-30_15-54-01.cnt   NaN   181
+duet  resting-EC  2  Duet_Musicians_2022-05-30_15-54-01.cnt   182   301
+duet  playing     2  Duet_Musicians_2022-05-30_15-54-01.cnt   302   452
+duet  resting-EO  2  Duet_Musicians_2022-05-30_15-54-01.cnt   453   573
+duet  listening   2  Duet_Musicians_2022-05-30_15-54-01.cnt   574   825
+duet  playing     2  Duet_Musicians_2022-05-30_15-54-01.cnt   826   973
+duet  resting-EO  2  Duet_Musicians_2022-05-30_15-54-01.cnt   974   NaN
